@@ -3,11 +3,11 @@
 Рад, что ты заглянул 🚀
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C9A7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=header"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=00C9A7&width=600&lines=Привет%2C+я+Егор+Горев;Senior+QA+Engineer;Backend+%7C+API+%7C+Integration;Изучаю+автоматизацию+на+Python" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Привет,+я+Егор+Горев;Senior+QA+Engineer;Backend+%7C+API+%7C+Integration;Изучаю+автоматизацию+на+Python" />
+</p>
 
 ---
 
