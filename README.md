@@ -3,10 +3,10 @@
 Рад, что ты заглянул 🚀
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f0f0f,100:1a1a1a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00FF9F&center=true&vCenter=true&multiline=true&width=900&height=160&lines=egor@qa-engineer:~$+whoami;Egor+Gorev;Senior+QA+Engineer;API+%7C+Backend+%7C+Integration;automation_status=learning+python...;status=building+test+frameworks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3200&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=160&lines=Egor+Gorev;Senior+QA+Engineer;Backend+%7C+API+%7C+Integration+Testing;8%2B+years+of+experience+in+QA;Currently+focused+on+Python+Automation" />
 </p>
 
 ---
